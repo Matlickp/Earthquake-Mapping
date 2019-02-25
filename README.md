@@ -1,4 +1,4 @@
-# Earthquake-Mapping
+<a href="https://matlickp.github.io/Earthquake-Mapping/"> # Earthquake-Mapping </a>
 
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
