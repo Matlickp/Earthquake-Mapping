@@ -43,7 +43,7 @@ function Color(magnitude) {
     if (magnitude > 5) {
         return 'rgb(246, 8, 8)'
     } else if (magnitude > 4) {
-        return 'darkorange'
+        return 'rgb(255, 140, 0)'
     } else if (magnitude > 3) {
         return 'rgb(238, 185, 62)'
     } else if (magnitude > 2) {
